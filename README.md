@@ -54,4 +54,4 @@
 ## Интерфейс программы
 <p align="center"><img src="/images/screenshot-1.png"/></p>
 <p align="center"><img src="/images/screenshot-2.png"/></p>
-<p align="center"><img src="r/images/screenshot-3.png"/></p>
+<p align="center"><img src="/images/screenshot-3.png"/></p>
